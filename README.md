@@ -1,2 +1,2 @@
-# CSI-Net: Unified Human Body Characterization and Activity Recognition
+# CSI-Net
 csinet in pytorch 
